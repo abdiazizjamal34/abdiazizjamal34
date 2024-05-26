@@ -1,5 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/hyperrpg-twitch-hyper-rpg-kollok-elrFAUtV7ZOH7TSPhF)
-
+[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNiNWMyMTI1OWduaXlvMnN4Y3F0enNxa2Q3c2p4MDhxaGxrMjlzdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Abdiaziz jamal</h1>
 <h3 align="center">A soft-were Engineer</h3>
