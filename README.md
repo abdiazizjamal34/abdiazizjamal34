@@ -1,4 +1,4 @@
-[![MasterHead]([[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNiNWMyMTI1OWduaXlvMnN4Y3F0enNxa2Q3c2p4MDhxaGxrMjlzdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))]
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 
 <h1 align="center">Hi 👋, I'm Abdiaziz jamal</h1>
 <h3 align="center">A soft-were Engineer</h3>
