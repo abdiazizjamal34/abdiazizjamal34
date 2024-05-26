@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/hyperrpg-twitch-hyper-rpg-kollok-elrFAUtV7ZOH7TSPhF)](https://rishavchanda.io)
+[![MasterHead](https://giphy.com/gifs/hyperrpg-twitch-hyper-rpg-kollok-elrFAUtV7ZOH7TSPhF)
 
 
 <h1 align="center">Hi 👋, I'm Abdiaziz jamal</h1>
